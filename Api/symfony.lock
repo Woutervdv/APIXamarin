@@ -1,4 +1,16 @@
 {
+    "overblog/graphql-bundle": {
+        "version": "0.11",
+        "recipe": {
+            "repo": "github.com/symfony/recipes-contrib",
+            "branch": "master",
+            "version": "0.11",
+            "ref": "cb22b949fa6a4b01f6955e78a58444605f062616"
+        }
+    },
+    "overblog/graphql-php-generator": {
+        "version": "v0.7.2"
+    },
     "psr/cache": {
         "version": "1.0.1"
     },
@@ -38,6 +50,9 @@
     "symfony/event-dispatcher": {
         "version": "v4.0.6"
     },
+    "symfony/expression-language": {
+        "version": "v4.0.6"
+    },
     "symfony/filesystem": {
         "version": "v4.0.6"
     },
@@ -68,13 +83,22 @@
     "symfony/http-kernel": {
         "version": "v4.0.6"
     },
+    "symfony/inflector": {
+        "version": "v4.0.6"
+    },
     "symfony/lts": {
         "version": "4-dev"
+    },
+    "symfony/options-resolver": {
+        "version": "v4.0.6"
     },
     "symfony/polyfill-mbstring": {
         "version": "v1.7.0"
     },
     "symfony/process": {
+        "version": "v4.0.6"
+    },
+    "symfony/property-access": {
         "version": "v4.0.6"
     },
     "symfony/routing": {
@@ -97,5 +121,8 @@
     },
     "symfony/yaml": {
         "version": "v4.0.6"
+    },
+    "webonyx/graphql-php": {
+        "version": "v0.11.5"
     }
 }
